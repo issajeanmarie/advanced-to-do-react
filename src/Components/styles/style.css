@@ -1,0 +1,22 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body{
+	background-image: url('https://www.placeimg.com/640/480/tech');
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position: center;
+}
+
+#root{
+	background: rgba(0,0,0,0.7);
+	width: 100%;
+	min-height: 670px;
+	height: auto;
+	margin-top: 0;
+	padding-top: 3%;
+	padding-bottom: 3%;
+}
