@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/advanced-to-do-react/static/css/main.ae1dd89d.chunk.css",
+    "main.js": "/advanced-to-do-react/static/js/main.b74e1b99.chunk.js",
+    "main.js.map": "/advanced-to-do-react/static/js/main.b74e1b99.chunk.js.map",
+    "runtime-main.js": "/advanced-to-do-react/static/js/runtime-main.fd98cbb3.js",
+    "runtime-main.js.map": "/advanced-to-do-react/static/js/runtime-main.fd98cbb3.js.map",
+    "static/js/2.cfc19f83.chunk.js": "/advanced-to-do-react/static/js/2.cfc19f83.chunk.js",
+    "static/js/2.cfc19f83.chunk.js.map": "/advanced-to-do-react/static/js/2.cfc19f83.chunk.js.map",
+    "index.html": "/advanced-to-do-react/index.html",
+    "static/css/main.ae1dd89d.chunk.css.map": "/advanced-to-do-react/static/css/main.ae1dd89d.chunk.css.map",
+    "static/js/2.cfc19f83.chunk.js.LICENSE.txt": "/advanced-to-do-react/static/js/2.cfc19f83.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd98cbb3.js",
+    "static/js/2.cfc19f83.chunk.js",
+    "static/css/main.ae1dd89d.chunk.css",
+    "static/js/main.b74e1b99.chunk.js"
+  ]
+}
